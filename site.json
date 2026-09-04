@@ -1,0 +1,14 @@
+{
+  "developer": {
+    "name": "NOHJS",
+    "email": "nohjs.biz@gmail.com",
+    "intro": "혼자 만드는 모바일 앱입니다. 아래는 각 앱의 개인정보처리방침입니다."
+  },
+  "apps": [
+    {
+      "id": "chemiline",
+      "name": "케미라인",
+      "tagline": "MBTI·사주·별자리·혈액형을 한 번에 보는 궁합 리포트"
+    }
+  ]
+}

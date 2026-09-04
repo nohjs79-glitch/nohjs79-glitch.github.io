@@ -1,0 +1,9 @@
+# ⚠ 이 저장소의 모든 파일은 LF 로 저장한다.
+#
+# app-ads.txt 가 CRLF 로 들어가면 광고 회사 크롤러가 못 읽는다.
+# 윈도우에서 작업하므로 편집기가 CRLF 를 붙일 수 있다 — 여기서 막는다.
+* text=auto eol=lf
+
+# 아래 둘은 특히 한 글자도 달라지면 안 되는 파일이라 따로 못박는다.
+app-ads.txt text eol=lf
+.nojekyll   text eol=lf
